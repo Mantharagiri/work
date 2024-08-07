@@ -1,0 +1,11 @@
+- offer: a
+  status: Activate
+  filtersocs: b
+  addsocs:
+    - c
+
+- offer: d
+  status: Activate
+  filtersocs: e
+  addsocs:
+    - f
